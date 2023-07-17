@@ -1,6 +1,0 @@
-# Caixa-eletr-nico
-A avaliação final da matéria de construção de algoritmo para os alunos do primeiro semestre  de Análise e Desenvolvimento de Sistemas
-da FACENS, foi a construção de um algoritmo em JAVA que fosse capaz de realizar as tareafas básicas de um caixa eletrônico.
-Este é o código criado por mim, onde além de realizar as tarefas básicas, ele tambmbém retorna ao menu inicial quando o cpf digitado estiver 
-errado, além de bloquear a senha caso ele seja digitada de forma incorreta 3 vezes.
-.
